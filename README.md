@@ -1,10 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tamjid</h1>
 <h3 align="center">A passionate Web and Software Developer & Graphics Designer</h3><br><br>
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc3bXNnMDVydThvODR5ZmxzdWtlZzMxNDhpa2Q1Z2wyZDA3amVlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif">
-<br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mth-eraz&label=Profile%20views&color=0e75b6&style=flat" alt="mth-eraz" /> </p><br>
 
 - 🌱 I’m currently learning **Networking**
 
