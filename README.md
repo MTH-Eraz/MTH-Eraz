@@ -9,7 +9,7 @@
 ----
 </div>  
   
-
+<br/>  <br/> 
 
 
 ### About me..  
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mohammediraz123@gmail.com**
 
-<br/>  <br/> <br/>  <br/> 
+<br/>  <br/> 
 
 
 ## Skill (Language & Tools)  
@@ -85,7 +85,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MTH-Eraz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>  <br/> 
 
 
 ## Connect with me 
@@ -113,4 +113,4 @@
 
 <br />
 
----
+
