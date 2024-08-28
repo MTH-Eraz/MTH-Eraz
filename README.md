@@ -24,7 +24,7 @@
 <br/>  <br/> 
 
 
-## My Skill Set  
+## Skill (Language & Tools)  
 ----
 <table align="center" ><tr><td valign="top" width="33%">
 
