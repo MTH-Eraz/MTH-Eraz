@@ -12,7 +12,7 @@
 <br/>  <br/> 
 
 
-### About me..  
+## About me
 
 - 🌱 I’m student of Computer Science & Engineering (B.Sc)  
   
