@@ -14,7 +14,7 @@
 
 ## About me
 
-- 🌱 I’m student of Computer Science & Engineering (B.Sc)  
+- 🧑‍💻 I’m student of Computer Science & Engineering (B.Sc)  
   
 
 - ❓ Ask me about anything related to Web/Software Development & Graphics Design,   
