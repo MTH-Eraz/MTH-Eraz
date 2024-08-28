@@ -10,7 +10,14 @@
 </div>  
   
 
-
+<head>
+<style>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
 
 ### About me..  
 
@@ -18,14 +25,15 @@
   
 
 - ❓ Ask me about anything related to Web/Software Development & Graphics Design,   
-  
+
+- 📫 How to reach me **mohammediraz123@gmail.com**
 
 <br/>  <br/> 
 
 
 ## My Skill Set  
 ----
-<table><tr><td valign="top" width="33%">
+<table class="center" ><tr><td valign="top" width="33%">
 
 
 
