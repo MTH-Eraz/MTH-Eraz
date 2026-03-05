@@ -45,83 +45,156 @@ My **graphics design** background helps me create **clean layouts and user-centr
 
 ## 🧠 Skills & Tools
 
-> **CV-based stack:** Flutter/Dart, C++, Java, PHP, Laravel, HTML/CSS/JS, WordPress, Adobe tools, Networking (Packet Tracer), ML (Python/Colab), DB (API/Firebase/MySQL), Git/GitHub, AWS.
+<!-- ====== BOX STYLE (works in GitHub README) ====== -->
+<div align="center">
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-
-### 📱 App Development (Flutter)
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
-</div>
-
-<br/>
-
-### 🌐 Web Development
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,wordpress" />
-</div>
-
-<br/>
-
-### 🗄️ Database & Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,php" />
-</div>
-
-<br/>
-
-### 🧩 Version Control
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</div>
-
-    </td>
-    <td valign="top" width="50%">
-
-### 💻 Programming Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php" />
-</div>
-
-<br/>
-
-### ☁️ Cloud Computing (AWS)
-<div>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</div>
-
-**Services:** EC2 • Lambda • S3 • VPC • RDS • IAM • Elastic Beanstalk
-
-<br/>
-
-### 🧪 Machine Learning
-<div>
-  <img src="https://skillicons.dev/icons?i=python" />
-</div>
-
-**Tools:** Google Colab
-
-<br/>
-
-### 🌐 Networking
-<div>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0B5CAB?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-<br/>
-
-### 🎨 Graphics Design
-<div>
-  <img src="https://skillicons.dev/icons?i=ps,ai" />
-</div>
-
-**Also:** Adobe InDesign
-
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>📱 App Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
+      </p>
+      <sub>Flutter • Dart • Android Studio • VS Code</sub>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>💻 Programming Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,java,php,python,javascript" />
+      </p>
+      <sub>C++ • Java • PHP • Python • JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🌐 Web Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,laravel,wordpress" />
+      </p>
+      <sub>HTML • CSS • JavaScript • Laravel • WordPress</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🗄️ Database & APIs</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+      </p>
+      <sub>MySQL • Firebase • REST APIs</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>☁️ Cloud (AWS)</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws" />
+      </p>
+      <sub>EC2 • Lambda • S3 • VPC • RDS • IAM • Elastic Beanstalk</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🧪 Machine Learning</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" />
+      </p>
+      <sub>Python • Google Colab</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🌐 Networking</h3>
+      <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="28" alt="Cisco" />
+        &nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Packet_Tracer_Icon.png" height="28" alt="Cisco Packet Tracer" />
+      </p>
+      <sub>Cisco Packet Tracer</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🧩 Version Control</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </p>
+      <sub>Git • GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🖥️ OS & Office</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=linux" />
+        <br/>
+        <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+        <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+      </p>
+      <sub>Linux • Word • Excel • PowerPoint</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 18px; border-radius: 14px;">
+      <h3>🎨 Graphics Design</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ps,ai" />
+        <br/>
+        <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+      </p>
+      <sub>Adobe Photoshop • Illustrator • InDesign</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
