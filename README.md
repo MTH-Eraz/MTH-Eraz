@@ -45,67 +45,83 @@ My **graphics design** background helps me create **clean layouts and user-centr
 
 ## 🧠 Skills & Tools
 
-> **Skills are taken from my CV** (Flutter/Dart, C++, Java, PHP, Laravel, HTML/CSS/JS, WordPress, Adobe tools, Networking, ML, DB, Git/GitHub, AWS services).
+> **CV-based stack:** Flutter/Dart, C++, Java, PHP, Laravel, HTML/CSS/JS, WordPress, Adobe tools, Networking (Packet Tracer), ML (Python/Colab), DB (API/Firebase/MySQL), Git/GitHub, AWS.
 
-### 📱 App Development
-<div align="left">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 📱 App Development (Flutter)
+<div>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
 </div>
 
-### 💻 Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,php,python,javascript" />
-</div>
+<br/>
 
 ### 🌐 Web Development
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,wordpress" />
 </div>
 
-### 🗄️ Database & APIs
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<br/>
+
+### 🗄️ Database & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,php" />
 </div>
 
-### ☁️ Cloud (AWS)
-<div align="left">
+<br/>
+
+### 🧩 Version Control
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</div>
+
+    </td>
+    <td valign="top" width="50%">
+
+### 💻 Programming Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php" />
+</div>
+
+<br/>
+
+### ☁️ Cloud Computing (AWS)
+<div>
   <img src="https://skillicons.dev/icons?i=aws" />
 </div>
 
-**AWS Services:** EC2 • Lambda • S3 • VPC • RDS • IAM • Elastic Beanstalk
+**Services:** EC2 • Lambda • S3 • VPC • RDS • IAM • Elastic Beanstalk
+
+<br/>
 
 ### 🧪 Machine Learning
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=python" />
 </div>
 
 **Tools:** Google Colab
 
+<br/>
+
 ### 🌐 Networking
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="28" alt="Cisco" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Packet_Tracer_Icon.png" height="28" alt="Cisco Packet Tracer" />
+<div>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0B5CAB?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-### 🧩 Version Control
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</div>
-
-### 🖥️ OS & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</div>
-
-**Office:** MS Word • Excel • PowerPoint
+<br/>
 
 ### 🎨 Graphics Design
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=ps,ai" />
 </div>
 
 **Also:** Adobe InDesign
+
+    </td>
+  </tr>
+</table>
 
 ---
 
